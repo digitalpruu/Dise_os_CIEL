@@ -69,7 +69,8 @@
       {
         "name": "Facebook",
         "description": "Cielo Amparo Hernández Paez",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
