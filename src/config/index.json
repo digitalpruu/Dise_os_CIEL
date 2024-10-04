@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@acielo4",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/acielo4?igsh=YzljYTk1ODg3Zg=="
       },
       {
         "name": "Facebook",
         "description": "Cielo Amparo Hernández Paez",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/share/fXZb29icEM4Btuyi/?mibextid=qi2Omg"
       }
     ]
   },
